@@ -1,1 +1,1 @@
-console("Harsh");
+console.log("Harsh")
