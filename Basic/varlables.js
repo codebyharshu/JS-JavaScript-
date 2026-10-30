@@ -11,3 +11,4 @@ userName = "Anniruddh"
 password = "hayshku@#093"
 
 console.table ([Email, password, userName, accountID]);
+console.log(typeof(password));
