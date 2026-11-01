@@ -8,7 +8,7 @@ do-while loop
 */
 
 //for loop
-/*for(let i = 1; i <=10; i++){
+for(let i = 1; i <=10; i++){
     console.log(i);   
 }
 //for in loop /// only use for object,arrey etc
@@ -26,7 +26,7 @@ for(let i of a){
     console.log(i);
     
 }
-*/
+
 //while loop
 let a = 10
 let b = 100
