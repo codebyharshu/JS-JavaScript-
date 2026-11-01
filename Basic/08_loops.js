@@ -28,10 +28,10 @@ for(let i of a){
 }
 
 //while loop
-let a = 10
+let r = 10
 let b = 100
-while(a<b){
-    console.log(a);   
+while(r<b){
+    console.log(r);   
     a++ 
 }
 
